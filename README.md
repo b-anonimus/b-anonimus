@@ -30,14 +30,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b-anoninus&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
-
----
-
 ### 🤝 Contacto
 
 * 📧 **Email:** bastiansalvosepulveda@gmail.com
