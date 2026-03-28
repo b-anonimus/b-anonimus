@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/bastian-salvo-sepulveda-a30b9126b/">Bastian Salvo</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/08GCqCy.png" alt="Banner Git">
+<img src="https://altair.com.es/images/default-source/content-images/trends_cloud_computing_header_interior_desktop-jpg.jpg?sfvrsn=c83ff9b0_0" alt="Banner Git">
 
 ###
 
