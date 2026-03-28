@@ -1,36 +1,46 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/bastian-salvo-sepulveda-a30b9126b/">Bastian Salvo</a> 👋</h1>
+  <h1>Hola, soy <a href="https://www.linkedin.com/in/bastian-salvo-sepulveda-a30b9126b/">Bastián Salvo</a> 👋</h1>
+  <p><strong>Ingeniero en Ejecución en Computación e Informática | USACH 🎓</strong></p>
 </div>
-<img src="https://altair.com.es/images/default-source/content-images/trends_cloud_computing_header_interior_desktop-jpg.jpg?sfvrsn=c83ff9b0_0" alt="Banner Git">
 
-###
-
-<h3>Estudiante de Ingeniería Informática | Ciberseguridad • AWS • Backend • Power BI</h3>
-
-### 🧠 Sobre mí
-
-🎓 Estudiante de Ingeniería en Informática desde Chile 🇨🇱  
-🔐 Interesado en ciberseguridad, desarrollo backend, cloud computing y análisis de datos  
-💻 Con conocimientos en AWS, Linux, Power BI, bases de datos y programación  
-🚀 En constante aprendizaje y siempre buscando nuevos desafíos
+<img src="https://altair.com.es/images/default-source/content-images/trends_cloud_computing_header_interior_desktop-jpg.jpg?sfvrsn=c83ff9b0_0" alt="Banner Git" width="100%">
 
 ---
 
-### 🛠️ Tecnologías y herramientas que uso
+### 🧠 Sobre mí
+
+* 🇨🇱 **Ingeniero Informático** apasionado por la infraestructura y la seguridad.
+* 🔐 Enfocado en **Ciberseguridad**, Cloud Computing (AWS) y Desarrollo **Backend**.
+* 🚀 Actualmente desarrollando una **aplicación móvil para gestión de pedidos** (Stack: React Native/Node.js).
+* 📊 Experiencia en análisis de datos con **Power BI** y gestión de servidores **Linux**.
+* ⚡ Comprometido con la excelencia técnica y la resolución de problemas complejos.
+
+---
+
+### 🛠️ Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="GitHub" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/512/net-framework.png" alt=".NET" width="50" height="50"/>
-  <img src="https://www.almeritek.com/wp-content/uploads/2019/08/acloud.png" alt="AWS" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/1200px-Kali-dragon-icon.svg.png" alt="Kali Linux" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Go" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50" height="50"/>
 </p>
 
-###
+---
 
-<h2 align="left">Contact</h2>
+### 📈 GitHub Stats
 
-- 📧 Email: bastiansalvosepulveda@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/bastian-salvo-sepulveda-a30b9126b/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGithub&show_icons=true&theme=tokyonight" alt="Stats" />
+</p>
+
+---
+
+### 🤝 Contacto
+
+* 📧 **Email:** bastiansalvosepulveda@gmail.com
+* 💼 **LinkedIn:** [Bastián Salvo Sepúlveda](https://www.linkedin.com/in/bastian-salvo-sepulveda-a30b9126b/)
+* 📍 Laja, Región del Biobío, Chile 🇨🇱
